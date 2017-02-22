@@ -104,6 +104,11 @@
         <visibleLines>3</visibleLines>
     </fields>
     <label>Review</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <displayFormat>R-{000}</displayFormat>
         <label>Review Name</label>

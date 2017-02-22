@@ -12,9 +12,13 @@
         <members>ac5</members>
         <members>ac6</members>
         <members>bulktest</members>
+        <members>class_s</members>
         <members>cont1</members>
         <members>ext2</members>
         <members>q1</members>
+        <members>roja</members>
+        <members>roja1</members>
+        <members>roja2</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -106,6 +110,7 @@
         <members>standard__Community</members>
         <members>standard__Content</members>
         <members>standard__Insights</members>
+        <members>standard__LightningSales</members>
         <members>standard__Marketing</members>
         <members>standard__Platform</members>
         <members>standard__Sales</members>
@@ -119,6 +124,7 @@
         <members>Account.Active__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.Priority__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
@@ -224,6 +230,8 @@
         <members>Vacancy__c.Vacancy_Type__c</members>
         <members>Vacancysite__c.Job_Site__c</members>
         <members>Vacancysite__c.Vacancy__c</members>
+        <members>Warehouse__c.Rack_Num__c</members>
+        <members>Warehouse__c.Warehouse_S_No__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -245,6 +253,7 @@
         <members>Salary__c</members>
         <members>Vacancy__c</members>
         <members>Vacancysite__c</members>
+        <members>Warehouse__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -259,6 +268,7 @@
         <members>Offer__c</members>
         <members>Position_approval_matrix__c</members>
         <members>Project__c</members>
+        <members>Review__c</members>
         <members>VF_page_tab</members>
         <members>Vacancy__c</members>
         <members>Vacancysite__c</members>
@@ -355,6 +365,7 @@
         <members>Vacancy__c-Vacancy Layout</members>
         <members>Vacancy__c-Vacancy-recruiter layout</members>
         <members>Vacancysite__c-Vacancysite Layout</members>
+        <members>Warehouse__c-Warehouse Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -437,6 +448,7 @@
         <members>Product2.AllProducts</members>
         <members>Product2.JAMS</members>
         <members>Project__c.All</members>
+        <members>Review__c.All</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>User.ActiveUsers</members>
@@ -602,6 +614,7 @@
         <members>Position_approval_matrix__c</members>
         <members>Project__c</members>
         <members>Vacancy__c</members>
+        <members>Warehouse__c</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -672,6 +685,7 @@
         <members>Applicant__c.New Applicant Alert</members>
         <members>Job_Application__c.Update close date of job application</members>
         <members>Job_Application__c.Update close date of job application2</members>
+        <members>Lead.Lead - Task - Contacted</members>
         <members>Lead.Lead FollowupTwo</members>
         <members>Lead.Lead follow up</members>
         <members>Offer__c.Submitted Offer Requires Action</members>
@@ -684,6 +698,7 @@
     <types>
         <members>Account.account_follow_up</members>
         <members>Applicant__c.New_Applicant_alert</members>
+        <members>Lead.Follow_up_task_1hr</members>
         <members>Offer__c.Follow_up_on_submitted_offer</members>
         <members>Offer__c.Vacancy_and_job_application_closed</members>
         <name>WorkflowTask</name>
